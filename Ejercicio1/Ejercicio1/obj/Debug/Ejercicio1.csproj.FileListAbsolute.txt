@@ -1,0 +1,14 @@
+C:\Users\gleen\source\repos\Tema 1 Serv\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\gleen\source\repos\Tema 1 Serv\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\gleen\source\repos\Tema 1 Serv\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\gleen\source\repos\Tema 1 Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\gleen\source\repos\Tema 1 Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\gleen\source\repos\Tema 1 Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\gleen\source\repos\Tema 1 Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\PC\source\repos\Serv\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\PC\source\repos\Serv\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\PC\source\repos\Serv\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\PC\source\repos\Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\PC\source\repos\Serv\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
